@@ -1,1 +1,3 @@
-This is a message to the world!
+This is a message to the world!     
+
+Testing the VS Code commit message.
